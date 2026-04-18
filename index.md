@@ -1,12 +1,5 @@
 # Index — zabrain
 
-Content catalog. Updated on every ingest.
-
-## Themes
-*(empty — emerge when 3+ sources align)*
-
-## Clusters
-*(empty — emerge when 2+ related items exist)*
-
 ## Source summaries
-*(empty)*
+- [[wiki/sources/2026-04-18-i-am-planning-to-build-a]] — voice-first infra for planning your day without opening your phone (zaid)
+- [[wiki/sources/2026-04-18-we-are-building-a-lot-of]] — free tool arbitrage: clone paid SaaS free, build audience, convert later (anas)
