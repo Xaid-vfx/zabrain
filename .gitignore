@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Obsidian per-device state
+.obsidian/
+
+# Caches
+__pycache__/
+node_modules/
