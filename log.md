@@ -19,3 +19,7 @@ Operations: `capture` (raw dump via bot), `ingest` (wiki page creation/update), 
 
 ## [2026-04-19] distill | 0 new sources, 0 clusters/themes touched
 - Quiet day — no new raws since yesterday's run.
+
+## [2026-04-20] distill | 1 new source, 1 new cluster
+- Summarized Anas's data-driven growth sprint playbook (reverse-engineer ad psychology, ICP from conversion signals, track every dollar).
+- Created cluster [[wiki/clusters/distribution-and-growth]] linking both of Anas's distribution-focused dumps (04-18 free-tool arbitrage + 04-20 growth sprint playbook) — shared thread: distribution, not product, is the bottleneck for AI SaaS.
