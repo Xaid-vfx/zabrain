@@ -30,3 +30,6 @@ Operations: `capture` (raw dump via bot), `ingest` (wiki page creation/update), 
 ## [2026-04-22] distill | 1 new source, 1 cluster updated
 - Summarized Anas's dead-subreddit-takeover marketing idea (linked tweet from manoj_ahi).
 - Added it to [[wiki/clusters/distribution-and-growth]] as a third source — now spans free-tool arbitrage, data-driven sprints, and community-hijack plays. Still single-author (Anas), so held off on promoting to theme.
+
+## [2026-04-23] distill | 0 new sources, 0 clusters/themes touched
+- Quiet day — no new raws since yesterday's run.
