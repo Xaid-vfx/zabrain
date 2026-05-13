@@ -78,3 +78,6 @@ Operations: `capture` (raw dump via bot), `ingest` (wiki page creation/update), 
 
 ## [2026-05-12] distill | 0 new sources, 0 clusters/themes touched
 - Quiet day — no new raws since yesterday's run.
+
+## [2026-05-13] distill | 0 new sources, 0 clusters/themes touched
+- Quiet day — no new raws since yesterday's run.
